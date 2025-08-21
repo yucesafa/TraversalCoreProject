@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\models\\visitorchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\models\\visitorchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\models\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\models\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\hubs\\visitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\hubs\\visitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\dal\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\dal\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapiforsql\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF326A9F-1DFF-4ABB-A4D8-26A9A1E2FE3D}|SignalRApiForSql\\SignalRApiForSql.csproj|solutionrelative:signalrapiforsql\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\model\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\model\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\model\\visitorchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\model\\visitorchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\hubs\\visitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\hubs\\visitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\dal\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\dal\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\signalrapi\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636393D3-16E5-4BE6-A90C-E533472E78D2}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\apimovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\apimovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\controllers\\apimoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\controllers\\apimoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\apiexchange\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\apiexchange\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\controllers\\apiexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\controllers\\apiexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\traversal proje\\traversalcoreproject\\traversalcoreproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B4C43D-8033-4748-BD67-4D1664D84736}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorChart.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Models\\VisitorChart.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\Models\\VisitorChart.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Models\\VisitorChart.cs",
+              "RelativeToolTip": "SignalRApiForSql\\Models\\VisitorChart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Program.cs",
+              "RelativeToolTip": "SignalRApiForSql\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:20.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Models\\VisitorService.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\Models\\VisitorService.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Models\\VisitorService.cs",
+              "RelativeToolTip": "SignalRApiForSql\\Models\\VisitorService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorHub.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Hubs\\VisitorHub.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\Hubs\\VisitorHub.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\Hubs\\VisitorHub.cs",
+              "RelativeToolTip": "SignalRApiForSql\\Hubs\\VisitorHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\DAL\\Visitor.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\DAL\\Visitor.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\DAL\\Visitor.cs",
+              "RelativeToolTip": "SignalRApiForSql\\DAL\\Visitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "SignalRApiForSql\\DAL\\Context.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApiForSql\\DAL\\Context.cs",
+              "RelativeToolTip": "SignalRApiForSql\\DAL\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Model\\VisitorService.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Model\\VisitorService.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Model\\VisitorService.cs",
+              "RelativeToolTip": "SignalRApi\\Model\\VisitorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisitorChart.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Model\\VisitorChart.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Model\\VisitorChart.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Model\\VisitorChart.cs",
+              "RelativeToolTip": "SignalRApi\\Model\\VisitorChart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VisitorHub.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Hubs\\VisitorHub.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Hubs\\VisitorHub.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Hubs\\VisitorHub.cs",
+              "RelativeToolTip": "SignalRApi\\Hubs\\VisitorHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\DAL\\Context.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\DAL\\Context.cs",
+              "RelativeToolTip": "SignalRApi\\DAL\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:35.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\DAL\\Visitor.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\DAL\\Visitor.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\DAL\\Visitor.cs",
+              "RelativeToolTip": "SignalRApi\\DAL\\Visitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\SignalRApi\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:52:31.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\ApiMovie\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\ApiMovie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\ApiMovie\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\ApiMovie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:49:48.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiMovieController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiMovieController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiMovieController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiMovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:49:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\ApiExchange\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\ApiExchange\\Index.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\ApiExchange\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\ApiExchange\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:49:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiExchangeController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiExchangeController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiExchangeController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiExchangeController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Controllers\\ApiExchangeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:49:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:46:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\Traversal Proje\\TraversalCoreProject\\TraversalCoreProject\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:42:31.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.sourcelink.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\Traversal Proje\TraversalCoreProject\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
